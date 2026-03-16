@@ -1,0 +1,25 @@
+<html>
+<head>
+    <title>Online voting system</title>
+    <link rel="stylesheet" href="css/stylesheet.css">
+</head>
+<body>
+    <center>
+    <div id="headerSection">
+        <h1>Online Voting System</h1>
+    </div>
+    <hr>
+
+  <form action="api/login.php" method="POST">
+    <input type="number" name="mobile" placeholder="Enter mobile"><br><br>
+    <input type="password" name="password" placeholder="Enter password"><br><br>
+    <select name="role" id="dropbox">
+        <option value="1">Voter</option>
+        <option value="2">Group</option>
+    </select><br><br>
+    <button type="submit" id="loginbtn">Login</button>
+        New user? <a href="routes/register.html">Register here</a>
+    </form>
+    </center>
+</body>
+</html>
