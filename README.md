@@ -1,21 +1,21 @@
 # Ballot-Bridge
 
 
-*A secure and user-friendly "Ballot-Bridge" developed using "PHP, MySQL, HTML, CSS, and JavaScript". 
+A secure and user-friendly "Ballot-Bridge" developed using "PHP, MySQL, HTML, CSS, and JavaScript". 
 
-*The system allows users to register, log in, and vote for candidates digitally while ensuring that each voter can vote only once.
+The system allows users to register, log in, and vote for candidates digitally while ensuring that each voter can vote only once.
 
-*The "Ballot-Bridge" is deployed online using InfinityFree hosting and is accessible via a live web environment.
+The "Ballot-Bridge" is deployed online using InfinityFree hosting and is accessible via a live web environment.
 
 
-🌐# Live Demo
+# Live Demo 🌐
 InfinityFree deployed link:   https://ballotbridge.infinityfreeapp.com
 
 
 
 
 ## 📸 Screenshots
-![image alt](https://github.com/Malateshgouda813/Ballot-Bridge/blob/95ffd6a808bbe419bc4bdcb584274476d0d17ae5/Screenshot%20(574).png)
+![image alt](https://github.com/Malateshgouda813/Ballot-Bridge/blob/7583bef742164d9f9e7050ee52200a55d4d97586/Screenshot%20(587).png)
 
 
 
