@@ -15,6 +15,7 @@ InfinityFree deployed link:   https://ballotbridge.infinityfreeapp.com
 
 
 ## 📸 Screenshots
+![image alt](https://github.com/Malateshgouda813/Ballot-Bridge/blob/95ffd6a808bbe419bc4bdcb584274476d0d17ae5/Screenshot%20(574).png)
 
 
 
