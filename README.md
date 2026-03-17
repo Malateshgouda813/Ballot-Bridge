@@ -5,7 +5,17 @@ A secure and user-friendly "Ballot-Bridge" developed using "PHP, MySQL, HTML, CS
 The system allows users to register, log in, and vote for candidates digitally while ensuring that each voter can vote only once.
 The "Ballot-Bridge" is deployed online using InfinityFree hosting and is accessible via a live web environment.
 
-🌐Live Demo Link:ballotbridge.infinityfreeapp.com
+🌐# Live Demo
+InfinityFree deployed link:   https://ballotbridge.infinityfreeapp.com
+
+
+---
+
+## 📸 Screenshot
+![Typizy Screenshot](https://github.com/Malateshgouda813/typizy_web_application/blob/e102679dbb1994c1a9afdb30cc097523b8f9b2ef/Screenshot%20(361).png)
+![Typizy_Screenshot](https://github.com/Malateshgouda813/typizy_web_application/blob/227e93451e3950f17be30d0d5a9e9e259856203e/Screenshot%20(362).png).
+
+
 
 
 * Features
