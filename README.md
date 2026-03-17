@@ -1,4 +1,4 @@
-#"Ballot-Bridge"
+# Ballot-Bridge
 
 
 A secure and user-friendly "Ballot-Bridge" developed using "PHP, MySQL, HTML, CSS, and JavaScript".  
@@ -9,9 +9,12 @@ The "Ballot-Bridge" is deployed online using InfinityFree hosting and is accessi
 InfinityFree deployed link:   https://ballotbridge.infinityfreeapp.com
 
 
----
+
 
 ## 📸 Screenshots
+
+
+
 
 
 # Features
