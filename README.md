@@ -1,4 +1,4 @@
-"Ballot-Bridge"
+#"Ballot-Bridge"
 
 
 A secure and user-friendly "Ballot-Bridge" developed using "PHP, MySQL, HTML, CSS, and JavaScript".  
@@ -14,7 +14,7 @@ InfinityFree deployed link:   https://ballotbridge.infinityfreeapp.com
 ## 📸 Screenshots
 
 
-* Features
+# Features
 
 • User Registration with profile photo  
 • Secure Login System  
@@ -28,18 +28,15 @@ InfinityFree deployed link:   https://ballotbridge.infinityfreeapp.com
 
 
 
-* System Screens
+# System Screens
 
-### Registration Page
+* Registration Page
 Users can create an account by entering personal details and uploading a profile image.
-
-### Dashboard
+* Dashboard
 Displays voter profile, voting status, and candidates list.
-
-### Voting Section
+* Voting Section
 Users can vote for their preferred candidate.
-
-### Results Section
+* Results Section
 Displays vote counts and the leading candidate with chart visualization.
 
 
@@ -55,31 +52,6 @@ Displays vote counts and the leading candidate with chart visualization.
  phpMyAdmin ---. Database management 
  XAMPP ---> Local server 
 
-
-
-# 📂 Project Structure
-online-voting-system
-│
-├── api
-│   ├── connect.php
-│   ├── login.php
-│   ├── register.php
-│   └── vote.php
-│
-├── routes
-│   ├── dashboard.php
-│   ├── login.html
-│   └── register.html
-│
-├── uploads
-│   └── user images
-│
-├── css
-│   └── stylesheet.css 
-│
-├── .env
-├── .gitignore
-└── README.md
 
 
 # 🔐 Security Features
